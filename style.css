@@ -1,1 +1,12 @@
-
+*{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  min-height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(4,9,30,0.7)),url(https://unsplash.com/photos/U0dBV_QeiYk);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
